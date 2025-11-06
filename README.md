@@ -21,14 +21,10 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
 
 ---
 
-### 💻 Experience & Activities
+### 💻 Activities
 
-* **Undergraduate Researcher** | [Prof. Young-Kyun Kwon's Lab @ KHU] | 2025.XX ~ CURRENT
-    * *Studying Solid State Physics and computational methods.*
-
-* **[필요시 다른 활동 추가]** | [소속] | 202X.XX ~ 202X.XX
-    * *수행한 내용 요약*
-
+* 2025.09 ~ CURRENT | Computational Nanophysics Lab (KHU) [Prof. Young-Kyun Kwon] Undergraduate Researcher
+* 2024.07 - 2024.08 | Quantum + Chips Internship (University of Minnesota) | Research Intern** 
 ---
 
 ### 📂 Featured Projects
