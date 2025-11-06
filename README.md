@@ -20,14 +20,14 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
 📫 **How to reach me:** nbalee00@khu.ac.kr
 
 ---
-### Education
+### 💼 Education
 
 * `2021.03~2027.02(expected)` **KyungHee Univ.**
     * B.S. in Department of Physics (Major)
     * Minor in Science Information Convergence
 ---
 
-### 💻 Activities
+### 📚 Activities
 
 * `2025.09~CURRENT` **Computational Nanophysics Lab**(KHU) Undergraduate Researcher
 * `2024.07~2024.08` **Quantum + Chips Internship**(University of Minnesota, UMN) Research Intern
@@ -35,15 +35,18 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
   
 ---
 
-### 📂 Featured Projects
+### 💻 Skills
+**Language:**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
-> C언어, 축구, 인용 네트워크 분석 프로젝트 저장소를 먼저 만드신 후, 그 링크를 `[link-to-your-repo]` 부분에 넣어주세요.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k._.hyeon_&layout=compact&theme=dark)](https://github.com/k._.hyeon_)
 
-* **Citation Network Analysis** | `Python`, `Pandas`, `SciPy`, `Matplotlib` | [link-to-your-repo]
-    * *Capstone Design project. Analyzed physics paper citation networks using the Louvain algorithm (community detection), PCA (influence ranking), and Bridging Centrality.*
-
-* **Soccer Data Analysis** | `Python`, `Pandas`, `SciPy`, `Seaborn` | [link-to-your-repo]
-    * *Info-Physics project. Analyzed La Liga JSON data to find statistically significant (t-test) factors for winning. Visualized tactical patterns using heatmaps and pass networks.*
-
-* **Kiosk System Implementation** | `C`, `ncurses`, `Structs`, `File I/O` | [link-to-your-repo]
-    * *Developed a TUI-based kiosk system in C. Implemented dynamic memory, file I/O for CSV parsing and sales logging, and a sorting algorithm for sales ranking.*
+**Framework:**
+<br>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white">
