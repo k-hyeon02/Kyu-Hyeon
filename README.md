@@ -9,12 +9,12 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
 * Data Analysis & AI
     - GNN & Graph Mining
     - Network Science & Recommender Systems
-    - Scientific Data Mining / ML for Physical Systems
+    - Scientific Data Mining / ML
     - Complex System
 
 * Computational Physics/Materials Science
     - DFT Principles
-    - Machine Learning Forcec Fields (MLFF)
+    - Machine Learning Force Fields (MLFF)
     - Solid State Physics
 
 📫 **How to reach me:** nbalee00@khu.ac.kr
@@ -30,6 +30,7 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
 ### 📚 Activities
 
 * `2025.09~CURRENT` **Computational Nanophysics Lab**(KHU) Undergraduate Researcher
+* `2025.03~2025.06` **Physics of Complex Systems and Informatic Lab**(KHU) Research Intern
 * `2024.07~2024.08` **Quantum + Chips Internship**(University of Minnesota, UMN) Research Intern
 * `2021.03` Adimission to KyungHee Univ. Department of Physics
   
