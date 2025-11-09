@@ -46,5 +46,6 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
 
 **Framework:**
 <br>
-<img src="https://img.shields.io/badge/NetworkX-008CC1?style=for-the-badge&logo=networkx&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/NetworkX-008CC1?style=for-the-badge&logo=networkx&logoColor=white">
+
